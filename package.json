@@ -29,7 +29,7 @@
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.20.1",
-    "less": "^3.11.1",
+    "less": "^3.13.1",
     "less-plugin-clean-css": "^1.5.1",
     "pre-commit": "^1.2.2",
     "terser": "^4.6.3",
